@@ -1,0 +1,137 @@
+section.content {
+  background-color: #F9F9F9 ;
+  height: 820px;
+  width: 570px;
+  float: right;
+}
+
+section.sidebar {
+  background-color: black;
+  height: 820px;
+  width: 300px;
+}
+
+main {
+  padding-right: 372px;
+  padding-left: 340px;
+}
+
+p {color: white;}
+
+h2 {margin-left: 25px;
+    padding-top:  200px;
+    font-family: Helvetica, sans-serif;
+    font-size: 15pt;
+    color: white;
+}
+
+ul { margin-left: 5px;
+	 margin-right: 35px;
+     font-family: Helvetica, sans-serif;
+     list-style-type: square;	
+     color: #C9C9C9;
+     line-height: 1.5;
+
+}
+
+body { margin: 0;
+       padding: 0;
+       font-family: Helvetica, sans-serif;
+       font-size: 9.5pt;
+       font-weight: 300;
+       color: black;
+       line-height: 1.5;
+ }
+      
+div.place_holder {
+	background-color: white;
+	display: block;
+	padding: 0  5px 30px 15px;
+	height: 820px;
+    width: 570px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.name_caption {
+	position: relative;
+}
+
+h1 {
+	font-family: Book Antique;
+	font-size: 4em;
+	font-weight: 300;
+	margin-bottom: 0.75em;  
+}
+
+.contact {
+	font-size: 9.5pt;
+}
+
+.name_caption .info {
+	color: #C9C9C9;
+	max-width: 200px;
+	padding: 4px;
+	position: absolute;
+	right: 0;
+	top: 0; 
+}
+
+.job_title {
+	color: black;
+	font-weight: bold;
+}
+
+.objective {
+	background: #C9C9C9;
+	font-style: italic;
+	margin: 25px 0 10px;
+	padding: 25px;
+}
+
+section.education {
+    background-color: white;
+	display: block;
+	height: 820px;
+    width: 550px;
+}
+
+.edu {
+	color: black;
+	margin: 0;
+	padding-top:  10px;
+    font-family: Helvetica, sans-serif;
+}
+
+.content article {
+    padding-left: 20px;
+}
+
+ul.school { margin-left: 5px;
+	 margin-right: 35px;
+     font-family: Helvetica, sans-serif;
+     list-style-type: square;	
+     color: black;
+     line-height: 1.5;
+
+}
+
+.date {
+	font-style: italic;
+	font-size: 0.9em;
+}
+
+section.Experience {
+    background-color: white;
+	display: block;
+	height: 820px;
+    width: 250px;
+}
+
+
+
+	
+
+

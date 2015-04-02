@@ -1,0 +1,22 @@
+section.content {
+  background-color: red;
+  height: 300px;
+  width: 600px;
+  float: right;
+}
+
+section.sidebar {
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+}
+
+main {
+  padding-right: 342px;
+  padding-left: 342px;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
