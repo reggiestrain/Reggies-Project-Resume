@@ -18,8 +18,9 @@ main {
 
 p {color: white;}
 
-h2 {margin-left: 25px;
-    padding-top:  200px;
+h2 {
+	margin-left: 25px;
+    padding-top:  25px;
     font-family: Helvetica, sans-serif;
     font-size: 15pt;
     color: white;
@@ -94,7 +95,7 @@ h1 {
 section.education {
     background-color: white;
 	display: block;
-	height: 820px;
+	height: 220px;
     width: 550px;
 }
 
@@ -130,8 +131,18 @@ section.Experience {
     width: 250px;
 }
 
+h2.software {
+	margin-left: 25px;
+    padding-top:  20px;
+    font-family: Helvetica, sans-serif;
+    font-size: 15pt;
+    color: white;
+}
 
-
-	
+img.image {
+	border-radius: 60%;
+	margin-left: 80px;
+	padding-top: 10px;
+}	
 
 
